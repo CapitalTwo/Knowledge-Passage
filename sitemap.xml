@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://knowledge.capitaltwo.ga/Retirement/index.html</loc>
+    
+    <lastmod>2020-12-02T18:36:46.033Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://knowledge.capitaltwo.ga/Credit/index.html</loc>
     
     <lastmod>2020-12-02T18:29:29.307Z</lastmod>
@@ -79,13 +86,6 @@
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Credit/Passage1/</loc>
-    
-    <lastmod>2020-12-02T17:17:32.111Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://knowledge.capitaltwo.ga/Credit/Passage2/</loc>
     
     <lastmod>2020-12-02T17:17:32.111Z</lastmod>
@@ -93,9 +93,9 @@
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Retirement/index.html</loc>
+    <loc>https://knowledge.capitaltwo.ga/Credit/Passage1/</loc>
     
-    <lastmod>2020-11-19T07:01:40.250Z</lastmod>
+    <lastmod>2020-12-02T17:17:32.111Z</lastmod>
     
   </url>
   
@@ -135,21 +135,7 @@
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Loan/Passage2/</loc>
-    
-    <lastmod>2020-10-25T21:20:57.228Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://knowledge.capitaltwo.ga/Cryptocurrency/Passage2/</loc>
-    
-    <lastmod>2020-10-25T21:20:57.228Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://knowledge.capitaltwo.ga/Budget/Passage4/</loc>
     
     <lastmod>2020-10-25T21:20:57.228Z</lastmod>
     
@@ -163,7 +149,21 @@
   </url>
   
   <url>
+    <loc>https://knowledge.capitaltwo.ga/Loan/Passage2/</loc>
+    
+    <lastmod>2020-10-25T21:20:57.228Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://knowledge.capitaltwo.ga/Cryptocurrency/Passage3/</loc>
+    
+    <lastmod>2020-10-25T21:20:57.228Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://knowledge.capitaltwo.ga/Budget/Passage4/</loc>
     
     <lastmod>2020-10-25T21:20:57.228Z</lastmod>
     
