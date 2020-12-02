@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://knowledge.capitaltwo.ga/Credit/index.html</loc>
+    
+    <lastmod>2020-12-02T18:29:29.307Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://knowledge.capitaltwo.ga/Loan/index.html</loc>
     
     <lastmod>2020-12-02T18:22:07.651Z</lastmod>
@@ -30,14 +37,14 @@
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Investing/Passage1/</loc>
+    <loc>https://knowledge.capitaltwo.ga/Retirement/Passage1/</loc>
     
     <lastmod>2020-12-02T17:17:32.179Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Retirement/Passage1/</loc>
+    <loc>https://knowledge.capitaltwo.ga/Investing/Passage1/</loc>
     
     <lastmod>2020-12-02T17:17:32.179Z</lastmod>
     
@@ -51,14 +58,14 @@
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Investing/Passage4/</loc>
+    <loc>https://knowledge.capitaltwo.ga/Investing/Passage3/</loc>
     
     <lastmod>2020-12-02T17:17:32.155Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Investing/Passage3/</loc>
+    <loc>https://knowledge.capitaltwo.ga/Investing/Passage4/</loc>
     
     <lastmod>2020-12-02T17:17:32.155Z</lastmod>
     
@@ -72,14 +79,14 @@
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Credit/Passage2/</loc>
+    <loc>https://knowledge.capitaltwo.ga/Credit/Passage1/</loc>
     
     <lastmod>2020-12-02T17:17:32.111Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Credit/Passage1/</loc>
+    <loc>https://knowledge.capitaltwo.ga/Credit/Passage2/</loc>
     
     <lastmod>2020-12-02T17:17:32.111Z</lastmod>
     
@@ -135,21 +142,7 @@
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Cryptocurrency/Passage3/</loc>
-    
-    <lastmod>2020-10-25T21:20:57.228Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://knowledge.capitaltwo.ga/Cryptocurrency/Passage2/</loc>
-    
-    <lastmod>2020-10-25T21:20:57.228Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://knowledge.capitaltwo.ga/Budget/Passage2/</loc>
     
     <lastmod>2020-10-25T21:20:57.228Z</lastmod>
     
@@ -163,16 +156,23 @@
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Budget/Passage3/</loc>
+    <loc>https://knowledge.capitaltwo.ga/Budget/Passage2/</loc>
     
     <lastmod>2020-10-25T21:20:57.228Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/android/index.html</loc>
+    <loc>https://knowledge.capitaltwo.ga/Cryptocurrency/Passage3/</loc>
     
-    <lastmod>2020-09-23T04:35:13.545Z</lastmod>
+    <lastmod>2020-10-25T21:20:57.228Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://knowledge.capitaltwo.ga/Budget/Passage3/</loc>
+    
+    <lastmod>2020-10-25T21:20:57.228Z</lastmod>
     
   </url>
   
