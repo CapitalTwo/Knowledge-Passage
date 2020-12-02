@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://knowledge.capitaltwo.ga/SUMMARY/</loc>
+    
+    <lastmod>2020-12-02T18:05:59.211Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://knowledge.capitaltwo.ga/Retirement/Passage1/</loc>
     
     <lastmod>2020-12-02T17:17:32.179Z</lastmod>
@@ -23,14 +30,14 @@
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Investing/Passage3/</loc>
+    <loc>https://knowledge.capitaltwo.ga/Investing/Passage2/</loc>
     
     <lastmod>2020-12-02T17:17:32.155Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Investing/Passage2/</loc>
+    <loc>https://knowledge.capitaltwo.ga/Investing/Passage3/</loc>
     
     <lastmod>2020-12-02T17:17:32.155Z</lastmod>
     
@@ -128,13 +135,6 @@
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Budget/Passage3/</loc>
-    
-    <lastmod>2020-10-25T21:20:57.228Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://knowledge.capitaltwo.ga/Cryptocurrency/Passage2/</loc>
     
     <lastmod>2020-10-25T21:20:57.228Z</lastmod>
@@ -149,7 +149,14 @@
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Loan/Passage2/</loc>
+    <loc>https://knowledge.capitaltwo.ga/Budget/Passage2/</loc>
+    
+    <lastmod>2020-10-25T21:20:57.228Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://knowledge.capitaltwo.ga/Budget/Passage3/</loc>
     
     <lastmod>2020-10-25T21:20:57.228Z</lastmod>
     
@@ -163,7 +170,7 @@
   </url>
   
   <url>
-    <loc>https://knowledge.capitaltwo.ga/Budget/Passage2/</loc>
+    <loc>https://knowledge.capitaltwo.ga/Loan/Passage2/</loc>
     
     <lastmod>2020-10-25T21:20:57.228Z</lastmod>
     
