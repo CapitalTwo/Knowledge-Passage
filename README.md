@@ -8,8 +8,8 @@ The best way is to visit https://knowledge.capitaltwo.ga/, you may use `http-ser
 
 ```bash
 npm install http-server # install http-server
-git clone https://github.com/CapitalTwo/Passage-Generator.git --recursive
-cd Passage-Generator
+git clone https://github.com/CapitalTwo/Knowledge-Passage.git --recursive
+cd Knowledge-Passage
 http-server
 ```
 
